@@ -1,0 +1,29 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+.title {
+    
+    font-size: 48px;
+    text-align: center;
+
+    font-weight: bold;
+}
+
+.card {
+    margin: 16px auto;
+    width: auto;
+    height: auto;
+    background: white;
+    text-align: center;
+
+}
+
+.item{
+    margin-bottom: 8px auto;
+    padding: 16px 8px;
+    background: lightsalmon;
+    font-size: 24px;
+
+}
